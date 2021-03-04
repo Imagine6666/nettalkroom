@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="846691ca-f1e0-49eb-adc1-7a6108269078" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WeChat/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WeChat/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WeChat/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/1626095d-7f3f-404e-bac8-b34efcdbf6b8/_metadata_/metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/1626095d-7f3f-404e-bac8-b34efcdbf6b8/_metadata_/metadata.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/1626095d-7f3f-404e-bac8-b34efcdbf6b8/_metadata_/metadata.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/1626095d-7f3f-404e-bac8-b34efcdbf6b8/_metadata_/metadata.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/1626095d-7f3f-404e-bac8-b34efcdbf6b8/_metadata_/metadata.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/1626095d-7f3f-404e-bac8-b34efcdbf6b8/_metadata_/metadata_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/1626095d-7f3f-404e-bac8-b34efcdbf6b8/_metadata_/metadata_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/1626095d-7f3f-404e-bac8-b34efcdbf6b8/storage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/1626095d-7f3f-404e-bac8-b34efcdbf6b8/storage_v2/_src_/database/dyleaf.c1mAsQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/1626095d-7f3f-404e-bac8-b34efcdbf6b8/storage_v2/_src_/database/dyleaf.c1mAsQ/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/80a5789a-fe3d-4b33-b7a1-6ba827a4c7d1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WeChat/.idea/dataSources/80a5789a-fe3d-4b33-b7a1-6ba827a4c7d1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/8a21ba38-4790-42d3-bde9-831bdf106ac6/_metadata_/metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/8a21ba38-4790-42d3-bde9-831bdf106ac6/_metadata_/metadata.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/8a21ba38-4790-42d3-bde9-831bdf106ac6/_metadata_/metadata.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/8a21ba38-4790-42d3-bde9-831bdf106ac6/_metadata_/metadata.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/8a21ba38-4790-42d3-bde9-831bdf106ac6/_metadata_/metadata.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/8a21ba38-4790-42d3-bde9-831bdf106ac6/_metadata_/metadata_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/8a21ba38-4790-42d3-bde9-831bdf106ac6/_metadata_/metadata_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/b1a7a973-1182-4e23-b92a-93137f65f83f/_metadata_/metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/b1a7a973-1182-4e23-b92a-93137f65f83f/_metadata_/metadata.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/b1a7a973-1182-4e23-b92a-93137f65f83f/_metadata_/metadata.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/b1a7a973-1182-4e23-b92a-93137f65f83f/_metadata_/metadata.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/b1a7a973-1182-4e23-b92a-93137f65f83f/_metadata_/metadata.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/b1a7a973-1182-4e23-b92a-93137f65f83f/_metadata_/metadata_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/b1a7a973-1182-4e23-b92a-93137f65f83f/_metadata_/metadata_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/b1a7a973-1182-4e23-b92a-93137f65f83f/storage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/dfb7b8f7-e797-4ce8-9df1-a8f8f9a6eab4/_metadata_/metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/dfb7b8f7-e797-4ce8-9df1-a8f8f9a6eab4/_metadata_/metadata.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/dfb7b8f7-e797-4ce8-9df1-a8f8f9a6eab4/_metadata_/metadata.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/dfb7b8f7-e797-4ce8-9df1-a8f8f9a6eab4/_metadata_/metadata.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/dfb7b8f7-e797-4ce8-9df1-a8f8f9a6eab4/_metadata_/metadata.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/dfb7b8f7-e797-4ce8-9df1-a8f8f9a6eab4/_metadata_/metadata_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/dfb7b8f7-e797-4ce8-9df1-a8f8f9a6eab4/_metadata_/metadata_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/dfb7b8f7-e797-4ce8-9df1-a8f8f9a6eab4/storage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/f6f62144-c1e2-4b6f-afda-b5fc66bbf05f/_metadata_/metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/f6f62144-c1e2-4b6f-afda-b5fc66bbf05f/_metadata_/metadata.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/f6f62144-c1e2-4b6f-afda-b5fc66bbf05f/_metadata_/metadata.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/f6f62144-c1e2-4b6f-afda-b5fc66bbf05f/_metadata_/metadata.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/f6f62144-c1e2-4b6f-afda-b5fc66bbf05f/_metadata_/metadata.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/f6f62144-c1e2-4b6f-afda-b5fc66bbf05f/_metadata_/metadata_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/f6f62144-c1e2-4b6f-afda-b5fc66bbf05f/_metadata_/metadata_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/f6f62144-c1e2-4b6f-afda-b5fc66bbf05f/storage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/f6f62144-c1e2-4b6f-afda-b5fc66bbf05f/storage_v2/_src_/database/dyleaf.c1mAsQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/dataSources/f6f62144-c1e2-4b6f-afda-b5fc66bbf05f/storage_v2/_src_/database/dyleaf.c1mAsQ/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WeChat/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WeChat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/WeChat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/WeChat/WeChat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WeChat/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/src/main/java/com/dyleaf/Dao/DbUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/WeChat/src/main/java/com/dyleaf/Dao/DbUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/src/main/java/com/dyleaf/Dao/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/WeChat/src/main/java/com/dyleaf/Dao/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeChat/src/main/java/com/dyleaf/Dao/db-config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/WeChat/src/main/java/com/dyleaf/Dao/db-config.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/WeChat" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\mavenfile\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="F:/mavenfile/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\mavenfile\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oyTR8XVIeU4EZV6vKP4TBUQHly" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="846691ca-f1e0-49eb-adc1-7a6108269078" name="Default Changelist" comment="" />
+      <created>1614257819263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614257819263</updated>
+      <workItem from="1614257820759" duration="65000" />
+    </task>
+    <servers />
+  </component>
+</project>
